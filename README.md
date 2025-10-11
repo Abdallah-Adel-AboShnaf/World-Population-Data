@@ -4,8 +4,8 @@ This project analyzes global population trends and demographics using a comprehe
 
 ## Team Members
 
-- Abdullah Adel
-- Dohy Abdelrahman
+- Abdallah Adel
+- Doha Abdelrahman
 - Youssef Magdy
 - Amr Yasser
 - Yohana
